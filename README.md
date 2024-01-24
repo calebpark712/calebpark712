@@ -5,13 +5,13 @@
 
 - 🖥️ I actively use: **MSSQL, MySQL, R & RStudio, Tableau, and Microsoft Excel**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning: **Power BI**
 
-- ♖  I have experience with: **Python**
+- ♖  I have experience with: **Python and SAS**
 
-- 🗣️ I constantly strive to be **a better communicator, descriptor, and story-teller**
+- 🗣️ I constantly strive to be **a better communicator, creative visualizer, and story-teller.**
 
-- ⚾ Fun Fact: **My favorite baseball team is the Los Angeles Dodgers and love to do personal data projects related to sabermetrics!**
+- ⚾ Fun Fact: **My favorite baseball team is the Los Angeles Dodgers and I love to do personal data projects related to sabermetrics!**
   
 - 📫 You can reach me at: **calebpark712@gmail.com**
 <h3 align="left">Connect with me:</h3>
