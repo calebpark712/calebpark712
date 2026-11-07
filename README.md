@@ -11,8 +11,6 @@
 
 - 🗣️ I constantly strive to be **a better communicator, creative visualizer, and story-teller.**
 
-- ⚾ Fun Fact: **My favorite baseball team is the Los Angeles Dodgers and I love to do personal data projects related to sabermetrics!**
-  
 - 📫 You can reach me at: **calebpark712@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
